@@ -35,6 +35,7 @@ h1,h2,h3,h4,h5,h6 {
     margin-bottom: 30px;
 }
 .timeline-image {
+    margin-top: 15px;
     max-width: 80px;
     height: auto;
     display: inline-block;
