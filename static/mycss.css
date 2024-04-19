@@ -2,7 +2,7 @@ a {
     color: #007a7a;
 }
 
-a.highlight {
+a.red {
     color: #c4302b;
 }
 
@@ -13,6 +13,10 @@ h1,h2,h3,h4,h5,h6 {
 }
 .sub-text {
     color: #777;
+}
+
+.red {
+    color: #c4302b;
 }
 
 .nav-tabs > li {
