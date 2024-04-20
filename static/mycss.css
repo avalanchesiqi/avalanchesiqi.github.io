@@ -8,7 +8,7 @@ a.red {
 p {
     margin: 5px 0 5px 0;
 }
-hr {
+hr.short {
     margin: 0 auto;
     width: 95%;
     color: #ddd;
