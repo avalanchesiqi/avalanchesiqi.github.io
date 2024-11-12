@@ -18,6 +18,8 @@ hr.short {
 h1,h2,h3,h4,h5,h6 {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 2px;
     /* text-transform: uppercase; */
 }
 .sub-text {
@@ -78,7 +80,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 .list-panel {
     list-style-type: none;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 
